@@ -81,7 +81,7 @@ The FCR consists of an electronic circuit with the [Raspberry Pi Pico](https://p
 
   Note that in this example, the PTN1 pattern will have four active parts. The fifth part is all zeros and will be ignored by the FCR. The figure below represents this pattern.
 
-  ![Image of the graph representing the PTN1 pattern](https://github.com/lcmaquino/fcr/tree/main/assets/plot_ptn1.svg)
+  ![Image of the graph representing the PTN1 pattern](https://github.com/lcmaquino/fcr/blob/main/assets/plot_ptn1.svg)
 
   In the first part of the pattern, the temperature should rise at a rate of `r1 = 0.86`°C/s until it reaches `L1 = 120`°C, staying at this temperature for `d1 = 60`s. In the second part, the temperature should rise at a rate of `r2 = 0.57`°C/s until it reaches `L2 = 180`°C, staying at this temperature for `d2 = 60`s. In the third part, the temperature should rise at a rate of `r3 = 0.29`°C/s until it reaches `L3 = 210`°C, staying at this temperature for `d3 = 60`s. Finally, in the fourth part, the temperature should rise at a rate of `r4 = 0.19`°C/s until it reaches `L4 = 227`°C, staying at this temperature for `d4 = 60`s.
 
