@@ -107,7 +107,7 @@ e por um conjunto de códigos escritos para [MicroPython](https://www.micropytho
   Note que nesse exemplo o padrão PTN1 terá quatro partes ativas. A quinta parte
   está toda nula e será ignorada pelo FCR. A figura a seguir representa esse padrão.
 
-  ![Imagem do gráfico representando o padrão PTN1](https://github.com/lcmaquino/fcr/tree/main/assets/plot_ptn1.svg)
+  ![Imagem do gráfico representando o padrão PTN1](https://github.com/lcmaquino/fcr/blob/main/assets/plot_ptn1.svg)
 
   Na primeira parte do padrão a temperatura deverá
   subir com uma taxa de variação de `r1 = 0.86`°C/s até atingir `L1 = 120`°C, 
