@@ -6,7 +6,7 @@ The FCR consists of an electronic circuit with the [Raspberry Pi Pico](https://p
 
 ## Assembly and Installation
 
-  - Assemble the electronic circuit according to the schematic diagram: [fenix-controlador-de-ressolda.pdf](https://github.com/lcmaquino/fcr/tree/main/pcb/fenix-controlador-de-ressolda.pdf);
+  - Assemble the electronic circuit according to the schematic diagram: [fenix-controlador-de-ressolda.pdf](https://github.com/lcmaquino/fcr/tree/main/pcb/fenix-controlador-de-ressolda.pdf). Also, see the [simple wiring diagram](assets/fcr-simple-wiring.png);
   - Connect the relay input pins to the connectors indicated in the diagram by `OUT1` and `OUT2`;
   - Connect the relay output pins to the heating devices;
   - Connect the HD44780 LCD 16×02, MAX6675, and Keyes_AD_Key modules to their respective connectors indicated in the diagram;
