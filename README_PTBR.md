@@ -15,7 +15,8 @@ e por um conjunto de códigos escritos para [MicroPython](https://www.micropytho
 ## Montagem e Instalação
 
   - Monte o circuito eletrônico conforme o diagrama esquemático:
-  [fenix-controlador-de-ressolda.pdf](https://github.com/lcmaquino/fcr/tree/main/pcb/fenix-controlador-de-ressolda.pdf);
+  [fenix-controlador-de-ressolda.pdf](https://github.com/lcmaquino/fcr/tree/main/pcb/fenix-controlador-de-ressolda.pdf).
+  Veja também o [diagrama simplificado](assets/fcr-simple-wiring.png) de ligação;
   - Conecte os pinos de entrada do relê nos conectores indicados no diagrama 
   por `OUT1` e `OUT2`;
   - Conecte os pinos de saída do relê nos dispositivos de aquecimento;
